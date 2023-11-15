@@ -1,0 +1,32 @@
+Bonjour [%CIV%] [%NOM%],
+
+Nous vous comptons parmi nos meilleurs clients de "[%VILLE%]".
+C'est pourquoi nous tenons à vous en remercier. 
+
+Pour cela nous organisons un grand jeu concours pour lequel vous avez été sélectionné parmi un grand nombre de personnes. 
+De nombreux cadeaux sont à gagner par tirage au sort.
+
+Pour participer, retournez-nous simplement ce message en ayant pris soin de vérifier vos coordonnées et de les modifier si nécessaire :
+
+
+[%CIV%] [%NOM%] [%PRENOM%]
+[%ADR1%]
+[%ADR2%]
+[%CP%] [%VILLE%]
+
+
+Ne laissez pas passer cette formidable chance qui vous est offerte.
+
+Cordialement,
+
+
+Paul Durand
+
+Service Commercial HawaiiStore
+http://exemple.pcsoft.fr/hawaii
+
+
+
+
+
+(Message fictif envoyé depuis l'exemple de mailing livré avec WinDev)

@@ -1,0 +1,116 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Mailing par emails
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Mailing par emails
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Mailing par eMails
+    internal_properties : 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
+    configuration_id : 17522048666447558544
+    type : 1
+    generation_name : WD Mailing par eMails.exe
+    version :
+     version : 11.00Aa
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\email.ico
+    language : 1
+ elements :
+  identifier : 0x4ac3814c0219c598
+  elements :
+   -
+     name : TEST_Principale
+     identifier : 0x4a09979b0000bba6
+     internal_properties : CAAAAAgAAADIRjDs24Cos7xro3oJA1hSlMEzu4NOa7BfTgSuCOmjtQuHpoM7jR0W2UO9O/v1jQPNVQ==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FEN_Principale
+     identifier : 0x3e3010ec0dc66001
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cX4pfbDX8hacejkhuSabsxmQ/xw7uHSgqADye05tU+dgFwH7xU2Df3Fb2w==
+     physical_name : .\Fen_Principale.wdw
+     type : 2
+   -
+     name : FEN_Connexion
+     identifier : 0x3e3010ed21096030
+     internal_properties : CAAAAAgAAABLx7NXVBEZwo188DemM1Op46zujml3D2aVWfnf53WZn6WrmKEe4mjj6lROqmpmEoZO1g==
+     physical_name : .\Fen_Connexion.wdw
+     type : 2
+   -
+     name : COL_TestHF
+     identifier : 0x428204b6004e4de3
+     internal_properties : CAAAAAgAAAAYdsDc65CYQwz7c6rZxxj6pOHju3MGVGdX4Ihi5C1vmVfrYldrXe1madPNK+vlnRP9BQ==
+     physical_name : .\COL_TestHF.wdg
+     type : 7
+   -
+     name : TEST_COL_TestHF
+     identifier : 0x428204bf0050709f
+     internal_properties : CAAAAAgAAADmbM7S0Y6mSRYxtWgfPm5MgsGJUWNel9SjjeGJsVBExETOv4olmy8oL+nTLfXrlwnzcw==
+     physical_name : .\TEST_COL_TestHF.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Mailing par eMails.ana\WD Mailing par eMails.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wb_style_sheet : .\WD Mailing par eMails.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAB25UuujGYW1e5TZqRelBhH6qtpnbiovg5NiLglfiqO0g7kxYRyq75HFVFLK0ds9OpuHemIiTYQ6ccfn8iawz37hnb0
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACExwJsjxnjNjG3fZril0J4JvnRov9VaudsaakoMLIKtY/vPnoG2FllcpBU7Daay4MQMCwdKWM9iQk3xmqh88L7yOecCMTL6dV0F/SIlC2CJUMFczqImow/KXq20uRC4qAUAlsAjP52U51jbfrpR283ytUt14ZG/atIwZWMOZFQXMpSijPx+7WGPYAVsd/t+VlV/7Z57aCuHpQdu6FR0zjiTIKFtbHrcYA=
+     code : |1+
+      gsUser est une chaîne	=INILit("CONNEXION","User","",Completerep(frepexe())+"Mailing.ini")		// Compte de messagerie
+      gsPwd est une chaîne	=INILit("CONNEXION","Pwd","",Completerep(frepexe())+"Mailing.ini")		// Mot de passe
+      gsPOP3 est une chaîne	=INILit("CONNEXION","POP3","",Completerep(frepexe())+"Mailing.ini")	// Adresse du serveur POP3
+      gsSMTP est une chaîne	=INILit("CONNEXION","SMTP","",Completerep(frepexe())+"Mailing.ini")	// Adresse du serveur SMTP
+      gsExpéditeur est une chaine	=INILit("CONNEXION","email","",Completerep(frepexe())+"Mailing.ini")	// eMail de l'expéditeur pour réponse
+      gbSessionOuverte est un booléen	// Vrai si la connexion au serveur de messagerie a été faite
+     type : 196608
+   -
+     code : |1+
+      // Déconnexion du serveur de messagerie
+      si gbSessionOuverte alors EmailFermeSession(gsUser)
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Mailing par eMails
+     identifier : 0x4ac3814d021ec6b1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
